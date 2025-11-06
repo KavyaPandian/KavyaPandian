@@ -11,8 +11,9 @@ I’m currently exploring how **AI & Machine Learning** can support **agricultur
 
 - 💻 Working on projects using **MERN Stack** & **Python**
 - 🤖 Exploring **AI**, **Machine Learning**, and **Data Analysis**
-- 🌱 Developed **Paddy and Mango Leaf Disease Detection** using TensorFlow.js
-- 🧾 Created a **Task Manager App** using the **MERN Stack**
+- 🌿 Created **Paddy and Mango Leaf Disease Detection** using TensorFlow.js
+- 🧾 Built a **Task Manager App** using the MERN Stack
+- 📊 Analyzed **Instagram Reach Data** using Python and visualization tools
 - 🎯 Goal: Build AI-powered solutions that make real-world impact
 
 ---
@@ -29,10 +30,11 @@ I’m currently exploring how **AI & Machine Learning** can support **agricultur
 
 ## 📚 Featured Projects
 
-| Project | Description | Live Demo |
-|----------|--------------|------------|
+| Project | Description | Live Demo / Repo |
+|----------|--------------|------------------|
 | 🌾 **Paddy & Mango Leaf Disease Detection** | AI model that detects leaf diseases using TensorFlow.js | [View Live](https://thunderous-cannoli-b45e0c.netlify.app/) |
-| 🧠 **MERN Task Manager** | Full-stack CRUD web app for managing tasks efficiently | [View Repo](https://github.com/KavyaPandian/Task-Manager-Using-MERN-Stack) |
+| 🧠 **MERN Task Manager** | Full-stack CRUD web app for managing tasks efficiently | [View Live](https://taskmanagerusingmern.netlify.app/) |
+| 📊 **Instagram Reach Analysis** | Data analysis project exploring engagement metrics and reach using Python, Pandas, and Plotly | [View Repo](https://github.com/KavyaPandian/Instagram-Reach-Analysis) |
 
 ---
 
@@ -45,19 +47,3 @@ I’m currently exploring how **AI & Machine Learning** can support **agricultur
 ---
 
 ⭐ *Thanks for visiting! Don’t forget to check out my projects and leave a star if you like them!* ⭐
-
-
-<!--
-**KavyaPandian/KavyaPandian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
