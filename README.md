@@ -22,7 +22,7 @@ I’m passionate about exploring AI, Machine Learning, and Web Development to bu
 
 **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB  
+**Database:** MongoDB, MySQL  
 **AI/ML:** Python, TensorFlow, Scikit-learn  
 **Tools:** Git, VS Code, Netlify, Render, Jupyter Notebook  
 
