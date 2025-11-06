@@ -3,7 +3,7 @@
 ### 💡 Passionate Full Stack Developer | AI Enthusiast | Lifelong Learner
 
 Welcome to my GitHub! I love creating meaningful projects that blend **technology, creativity, and impact**.  
-I’m currently exploring how **AI & Machine Learning** can support **agriculture, sustainability, and automation**. 🌾
+ and also I’m passionate about exploring AI and Machine Learning to build intelligent, user-centric solutions that enhance creativity, automation, and real-world problem solving. 🤖
 
 ---
 
